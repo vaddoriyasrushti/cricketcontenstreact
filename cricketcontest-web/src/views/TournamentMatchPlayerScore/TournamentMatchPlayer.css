@@ -1,0 +1,52 @@
+.divTeam
+{
+    display: flex; 
+    width: 100%;
+    padding: 9px; 
+    border: 1px; 
+    background-color: LightGray; 
+    border-radius: 15px;
+    margin-bottom: 10px; 
+}
+.pTeam{
+    margin: 5px;
+    font-weight: 700;
+}
+.btnDelete{
+    margin-right: auto;
+    left: 88%;
+    position: sticky;
+}
+.panelDiv{
+    text-align: center;
+}
+.headerDiv{
+    width: 100%; 
+    margin: 25px ;
+}
+.inputDiv{
+    float: right;
+}
+
+.colapseDiv{
+    margin-top: 100px;
+    width: 96%;
+}
+.btnGoup{
+    margin-top: 10px;
+}
+
+.containerDiv{
+    float: right;
+    margin: 15px;
+}
+.score{
+    width: 20%;      
+    background-color: lightgray;
+    box-shadow: 3px 3px 1px #888888;   
+}
+.divAdd{
+    margin-top: 65px;
+    margin-bottom: -5px;
+    float: left ;
+}

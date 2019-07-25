@@ -1,0 +1,102 @@
+.divTeam
+{
+    display: flex; 
+    width: 100%;
+    padding: 9px; 
+    border: 1px; 
+    background-color: LightGray; 
+    border-radius: 15px;
+    margin-bottom: 10px; 
+}
+.pTeam{
+    margin: 5px;
+    font-weight: 700;
+}
+.btnDelete{
+    margin-right: auto;
+    left: 88%;
+    position: sticky;
+}
+.textCenter{
+    text-align: center;
+}
+.headerDiv{
+    width: 100%; 
+    margin: 25px ;
+}
+.inputDiv{
+    float: right;
+}
+.addbtn{
+    width: 62px;
+    float: left;
+    margin-top: 15px;
+    height: 40px;
+}
+.colapseDiv{
+    margin-top: 100px;
+    width: 96%;
+}
+.btnGoup{
+    margin-top: 10px;
+}
+
+.containerDiv{
+    float: right;
+    margin: 15px;
+}
+
+.noTeams{
+    font-size:20px;
+    color:grey;
+    text-align:center
+}
+
+.centertr{
+    text-align: center;
+}
+
+.divHeader{
+    margin-top: 50px
+}
+
+.pageSelect{
+    float: right;
+    width: auto;
+}
+
+.addbtn{
+    float: left;
+}
+
+.addImag{
+    width: 60; 
+    cursor:pointer;
+    height:inherit; 
+}
+
+.cursorPointer{
+    cursor:pointer;
+}
+
+.alert{
+    color: red
+}
+
+.teamDiv{
+    margin-bottom:9px;
+    margin-left:10px;
+}
+
+.widthh{
+    width: 100%;
+}
+
+.spanDelete{
+    padding-left: 5px
+}
+
+.deleteIcon{
+    vertical-align: text-bottom;
+    padding-bottom: 2px
+}

@@ -1,0 +1,97 @@
+.cardRadius{
+    border-radius: 10px;
+}
+.textAlian{
+    text-align: center;
+}
+.imagewidth{
+    width: 150px;
+}
+.FullNameDiv{
+    margin: auto;
+}
+.minusplusimg{
+    width: 45px;
+    cursor: pointer;
+}
+.seletedplayer{
+    height: 180px;
+    text-align: center;
+}
+.seletedplayer img{
+    height:100px;
+    width:100px;
+}
+.playerdiscription{
+    margin-top: -15px
+}
+.containdiv{
+    background-repeat:no-repeat;
+     background-attachment: fixed;
+    height: 100vh; 
+    background-size:  cover;
+     padding-top:  62px;
+}
+.containdiv2{
+    overflow: auto;
+     height: calc(100vh - 62px)
+}
+.headercard{
+    background: linear-gradient(104deg, #3c3c3c 47%, #323232)
+}
+.headerCardTextColur{
+    color: white;
+}
+.heraderheading{
+    font-size: 20px
+}
+.headerimage{
+    display: inline-block;
+}
+.headerplayercounting{
+    margin-left: 14px ;
+}
+.playershowdiv{
+    background: #e6e6e6
+}
+.craeteTeamButton{
+    float: right
+}
+.noscorefound{
+    font-size: 20px;
+    color: "grey";
+    text-align: center
+}
+.myteamShowTournament{
+    border-radius:  25px;
+    cursor: pointer;
+    margin: 10px 20px;
+}
+.myteamShowTournamentlogo{
+    width: 150;
+}
+.myteamShowTournamentheading{
+    height: 80px
+}
+.myteamShowTournamentheading div div{
+    font-Size: 30px
+}
+.myteamShowTournamentCONATIN{
+    background: #e6e6e6
+}
+.Plyearimage{
+    width: 100px;
+     height: 100px
+}
+.PlayearshowcountPoint{
+    padding-top:70px
+}
+.PlayearshowcountPointdiv{
+    left: 18px
+}
+.PlayearShowCountPointShowPointDiv{
+    height: 40px;
+    padding: 9px;
+    font-size: 20px;
+     box-shadow:  -3px 7px 8px 0px grey
+}
